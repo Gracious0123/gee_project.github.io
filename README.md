@@ -1,8 +1,9 @@
-🧑‍🏫 Teachers Pre-Transfer Matching Platform
-Overview
+**🧑‍🏫 Teachers Pre-Transfer Matching Platform**
+
+**Overview**
 The Teachers Pre-Transfer Matching Platform is a web-based application designed to facilitate the matching of teachers seeking transfers with schools that have open vacancies. By streamlining the transfer process, this platform promotes transparency, efficiency, and better alignment between teachers' preferences and institutional needs.
 
-🎯 Key Features
+**🎯 Key Features**
 🔍 Teacher Profile Creation – Teachers can register, input their current location, subjects taught, experience, and desired transfer regions.
 
 🏫 School Vacancy Listings – Schools can post available positions with specific requirements.
@@ -15,13 +16,13 @@ The Teachers Pre-Transfer Matching Platform is a web-based application designed 
 
 📁 Document Upload & Verification – Teachers can upload relevant documents for administrative review.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 Layer	Technology Used
 Backend	Node.js
 Database	MySQL 
 Authentication	
 
-🚀 Getting Started
+**🚀 Getting Started**
 Prerequisites
 Node.js 
 MySQL 
